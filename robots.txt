@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://otogoefe.github.io/ABq/sitemap_index.txt
+Sitemap: https://otogoefe.github.io/Chy/sitemap_index.txt
+Sitemap: https://otogoefe.github.io/Swn/sitemap_index.txt
+Sitemap: https://otogoefe.github.io/kZt/sitemap_index.txt
